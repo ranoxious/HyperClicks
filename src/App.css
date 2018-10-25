@@ -1,0 +1,14 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0px;
+  font-family: Lucida Console, Courier, monospace;
+}
+
+.scoreSummary{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Lucida Console, Courier, monospace;	
+}
+
